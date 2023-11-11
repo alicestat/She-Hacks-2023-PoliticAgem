@@ -41,8 +41,8 @@ textos com linguagens simples e topicalizados.
 Exemplos de Sites de atualizações processos de PECS, PLS e noticias verídicas do governo que serão utilizados dentro 
 da aplicação:
 
-https://www12.senado.leg.br/noticias/ultimas   -> site oficial do Senado Federal
-https://www.camara.leg.br/                     -> Página Inicial da Camara Legislativa 
-https://www.camara.leg.br/noticias             -> Página de notícias da Camara Legislativa
-https://portaldatransparencia.gov.br/          -> Portal da Transparência 
-https://www.gov.br/pt-br                       -> Site do Governo Federal
+Site oficial do Senado Federal: https://www12.senado.leg.br/noticias/ultimas
+Página Inicial da Camara Legislativa: https://www.camara.leg.br/
+Página de notícias da Camara Legislativa: https://www.camara.leg.br/noticias
+Portal da Transparência: https://portaldatransparencia.gov.br/
+Site do Governo Federal: https://www.gov.br/pt-br
