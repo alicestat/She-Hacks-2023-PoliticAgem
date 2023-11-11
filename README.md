@@ -7,22 +7,22 @@ PoliticAgem é um projeto criado no SheHacks 2023. Os slides e vídeo estarão p
 
 Possui os filtros para buscas de noticias como: 
 
-TEMAS: Educação, Meio-Ambiente, Saúde, Segurança, Ciência, Economia, Indígenas, Animais
+TEMAS: Educação, Meio-Ambiente, Saúde, Segurança, Ciência, Economia, Indígenas, Animais.
 
-PEC: Propostas de Emendas Constitucionais  
+PEC: Propostas de Emendas Constitucionais.
 
-PL: Propostas de leis
+PL: Propostas de leis.
 
-DATA: Notícias - Do mais recente para o mais antigo
+DATA: Notícias - Do mais recente para o mais antigo.
 
-ESTADO: Filtra projetos por Estados do Brasil
+ESTADO: Filtra projetos por Estados do Brasil.
 
 CARGOS: Dentro desse filtro conseguimos encontrar os políticos atuais brasileiros, separados por cargos. 
 
 POLÍTICOS: Dentro do perfil de cada político encontramos informações como:
-Principais palavras citadas dentro da proposta de Candidatura
-Resumo em tópicos das principais propostas do Políticos 
-Link para o site de candidatura do político selecionado
+Principais palavras citadas dentro da proposta de Candidatura;
+Resumo em tópicos das principais propostas do Políticos; 
+Link para o site de candidatura do político selecionado.
                 
 JOGO: O jogo Pedagógico do POLITICAGEM serve para contribuir com o conhecimento dos usuários sobre
 os cargos políticos e suas funções, termos técnicos usados dentro da política por meio da criação de 
