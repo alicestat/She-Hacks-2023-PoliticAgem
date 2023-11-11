@@ -33,7 +33,7 @@ informações, que serão utilizadas em análises posteriores.
 textos com linguagens simples e topicalizados.
 
 Exemplos de Sites de atualizações processos de PECS, PLS e noticias verídicas do governo que serão utilizados dentro 
-da aplicação: 
+da aplicação:
 
 
        https://www12.senado.leg.br/noticias/ultimas   -> site oficial do Senado Federal
