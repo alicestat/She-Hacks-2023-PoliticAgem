@@ -42,7 +42,11 @@ Exemplos de Sites de atualizações processos de PECS, PLS e noticias verídicas
 da aplicação:
 
 Site oficial do Senado Federal: https://www12.senado.leg.br/noticias/ultimas
+
 Página Inicial da Camara Legislativa: https://www.camara.leg.br/
+
 Página de notícias da Camara Legislativa: https://www.camara.leg.br/noticias
+
 Portal da Transparência: https://portaldatransparencia.gov.br/
+
 Site do Governo Federal: https://www.gov.br/pt-br
