@@ -47,6 +47,10 @@ Página Inicial da Camara Legislativa: https://www.camara.leg.br/
 
 Página de notícias da Camara Legislativa: https://www.camara.leg.br/noticias
 
+## Protótipo no Figma
+
+https://www.figma.com/file/KDBhJ0JdXxKTnC9iYToNda/PoliticAgem?type=design&node-id=0%3A1&mode=design&t=wG4ic9ObAE3LME9k-1
+
 Portal da Transparência: https://portaldatransparencia.gov.br/
 
 Site do Governo Federal: https://www.gov.br/pt-br
