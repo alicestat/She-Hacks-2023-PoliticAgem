@@ -1,9 +1,7 @@
 # She-Hacks-2023-PoliticAgem
 PoliticAgem é um projeto criado no SheHacks 2023. Os slides e vídeo estarão presentes neste repositório.
 
-## Interface aplicativo:  
-
-### Página principal:
+## Interface aplicativo:
 
 Possui os filtros para buscas de noticias como: 
 
@@ -31,7 +29,7 @@ tomar. Se o usuário não souber os termos técnicos, basta clicar no ponto de i
 opções que o jogo irá explicar. Assim, com as atividades repetitivas da simulação da cidade do jogo 
 o usuário se familiarizaria com os termos. 
 
-### Tecnologias: 
+## Tecnologias: 
 
 Web Scrapping -> raspagem de rede – é uma técnica de coleta de dados de plataformas online. Os dados são capturados a partir dos scripts que são gerados pelas páginas e programas que “raspam” as informações, que serão utilizadas em análises posteriores.
 
